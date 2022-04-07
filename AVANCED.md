@@ -1,0 +1,3 @@
+# Hardware Information
+  
+  dmesg
