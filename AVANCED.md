@@ -1,3 +1,3 @@
 # Hardware Information
   
-  dmesg
+```dmesg
